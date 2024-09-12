@@ -1,0 +1,19 @@
+*{
+
+}
+#Convertir{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#Conversion_unidad{
+    margin-top:2em;
+    height: 80vh;
+    background-image:url(../img/fondo.jpg);
+    border-radius: 1em;
+}
+#unidades_calculadora{
+    padding-top: 15%;
+}
+.nav-link {
+    color: whitesmoke;
+}
