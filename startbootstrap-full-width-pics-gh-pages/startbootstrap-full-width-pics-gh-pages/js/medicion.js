@@ -723,3 +723,13 @@ function para(){
         select.innerHTML='<P class="text-center mt-3" style="padding:1px; background-color: white; border-radius: 5px;">'+"Altura máxima: "+Math.round(y_max)+'</P>';
      }
 }
+function save(){
+    let mail=document.getElementById("e1").value;
+    let coment = document.getElementById("tt").value;
+    const email = [];
+    email.push(mail);
+    const com=[];
+    com.push(coment);
+    console.log(email);
+    console.log(com);
+}
